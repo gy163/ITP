@@ -6,11 +6,15 @@ Identincaton of acive moleacules against thrombocytopenia through machine learni
 A tool for acive moleacules prediction of  thrombocytopenia.
 To use this tool, there are several steps：
 
-#Step 1 Use "Orange3.txt" to install orange3. 
+#Step 1 Installation Anaconda
+Go to "https://docs.anaconda.com/free/anaconda/install/windows/" to download and install Anaconda
 
-#Step 2 To run Orange Canvas run (activate the corresponding environment first if needed).
+#Step 2 Use "Orange3 Installation.txt" to install orange3.
 
-#Step 3 Then input the Molecular descriptor data (.csv) from the file :"Molecular descriptor" folder into the running Orange.
+#Step 3 To run Orange Canvas run
+conda install orange3
+
+#Step 4 Then input the Molecular descriptor data (.csv) from the file :"Molecular descriptor" folder into the running Orange.
 
 Installation requirements:
 We are based on Python 3.10 and Orange3.
